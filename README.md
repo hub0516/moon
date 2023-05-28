@@ -5,3 +5,5 @@
 @REM (1) git clone  https://github.com/hub0516/moon.git 
 @REM (2) add .vscode 和 .gitignore 和 remoto.bat(不能新增上去key)
  -->
+
+add !!
